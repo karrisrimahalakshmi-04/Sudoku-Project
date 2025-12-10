@@ -115,12 +115,4 @@ sudoku.c — Full C source code
 README.md — Documentation
 Screenshots - Output
 
-*Notes for Instructor
 
-This submission includes:
-
- Fully commented beginner-friendly source code
- Step-by-step Sudoku solving algorithm
- Clean README with compilation steps
- Screenshots to verify program output
- Properly structured file organization for GitHub.
